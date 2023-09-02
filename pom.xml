@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>home.amit.springboot.oauth2</groupId>
-	<artifactId>springboot-oauth2-app</artifactId>
+	<artifactId>social-oauth2-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot-oauth2-app</name>
+	<name>social-oauth2-app</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
